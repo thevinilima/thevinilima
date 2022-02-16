@@ -5,7 +5,7 @@
 const Vinicius = {
   age: 18,
   location: 'Belo Horizonte',
-  likes: ['Movies', 'Games', 'Cruzeiro', 'Dogs'],
+  likes: ['Code', 'Movies', 'Games'],
 }
 ```
 <br>
