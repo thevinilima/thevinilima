@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Vinicius</h1>
-<h3 align="center">Computer Technician student at CEFET-MG</h3>
+<h3 align="center">Fullstack Dev Intern</h3>
 
 ```js
 const Vinicius = {
