@@ -21,36 +21,11 @@ const Vinicius = {
   ],
 };
 ```
-<br>
 
 ### Technologies and Tools
 
-<p>
-  <img width="32" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;
-  <img width="32" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  &nbsp;
-  <img width="32" alt="React.js and React Native" title="React.js and React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  &nbsp;
-  <img width="32" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &nbsp;
-  <img width="32" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;
-  <img width="32" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp;
-  <img width="32" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  &nbsp;
-  <img width="32" alt="Spring" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  &nbsp;
-  <img width="32" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp;
-  <img width="32" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  &nbsp;
-  <img width="32" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  &nbsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,css,html,java,py,git,docker)](https://skillicons.dev)
 
-<br>
 
 ### Contact
 <p>
