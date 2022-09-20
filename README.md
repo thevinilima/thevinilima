@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I’m Vinicius</h1>
-<h3 align="center">Fullstack Dev Intern</h3>
+<h3 align="center">Full Stack Developer Intern</h3>
 
 ```js
 const Vinicius = {
   age: 18,
-  location: 'Belo Horizonte',
-  likes: ['Code', 'Movies', 'Games'],
-}
+  location: 'Brazil',
+  likes: ['Code', 'Movies', 'Football'],
+  occupation: 'Full Stack Developer Intern',
+  education: [
+    {
+      area: 'Computer Technician',
+      institution: 'CEFET-MG',
+      status: 'completed',
+    },
+    {
+      area: 'Software Engineering',
+      institution: 'PUC Minas',
+      status: 'studying',
+    },
+  ],
+};
 ```
 <br>
 
@@ -27,7 +40,7 @@ const Vinicius = {
   &nbsp;
   <img width="32" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;
-  <img width="32" alt="Spring" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="32" alt="Spring" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   &nbsp;
   <img width="32" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;
@@ -35,7 +48,6 @@ const Vinicius = {
   &nbsp;
   <img width="32" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
-  <img width="32" alt="VSCode" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
 <br>
