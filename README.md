@@ -3,7 +3,7 @@
 
 ```js
 const Vinicius = {
-  age: 18,
+  age: 19,
   location: 'Brazil',
   likes: ['Code', 'Movies', 'Football'],
   occupation: 'Full Stack Developer Intern',
