@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I’m Vinicius</h1>
-<h3 align="center">Full Stack Developer Intern</h3>
+<h3 align="center">Software Developer</h3>
 
 ```js
 const Vinicius = {
   age: 19,
   location: 'Brazil',
-  likes: ['Code', 'Movies', 'Football'],
-  occupation: 'Full Stack Developer Intern',
+  likes: ['Coding', 'Movies', 'Football', 'Music'],
+  occupation: 'Software Development Intern',
   education: [
     {
       area: 'Computer Technician',
