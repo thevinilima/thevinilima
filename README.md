@@ -9,12 +9,14 @@ const Vinicius = {
   occupation: 'Software Development Intern',
   education: [
     {
-      area: 'Computer Technician',
+      area: 'Computer Science',
+      degree: 'Technical',
       institution: 'CEFET-MG',
       status: 'completed',
     },
     {
       area: 'Software Engineering',
+      degree: 'BS',
       institution: 'PUC Minas',
       status: 'studying',
     },
