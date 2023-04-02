@@ -12,13 +12,13 @@ const Vinicius = {
       area: 'Computer Science',
       degree: 'Technical',
       institution: 'CEFET-MG',
-      status: 'completed',
+      status: 'Graduated',
     },
     {
       area: 'Software Engineering',
       degree: 'BS',
       institution: 'PUC Minas',
-      status: 'studying',
+      status: 'Enrolled',
     },
   ],
 };
