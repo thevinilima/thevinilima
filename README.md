@@ -3,10 +3,9 @@
 
 ```js
 const Vinicius = {
-  age: 20,
   location: 'Brazil',
   likes: ['Coding', 'Movies', 'Football', 'Music'],
-  occupation: 'Software Development Intern',
+  occupation: 'Software Developer',
   education: [
     {
       area: 'Computer Science',
@@ -23,11 +22,6 @@ const Vinicius = {
   ],
 };
 ```
-
-### Technologies and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,css,html,java,py,git,docker)](https://skillicons.dev)
-
 
 ### Contact
 <p>
